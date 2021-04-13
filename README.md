@@ -1,4 +1,4 @@
-# Pandas Challenge
+# PyCitySchools Standardized Test Results Analysis in Pandas 
 
 PyCitySchools analyzes the district-wide standardized test results. Data consists of Math and Reading scores of each student from District and Charter schools. 
 
